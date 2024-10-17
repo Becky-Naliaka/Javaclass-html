@@ -18,3 +18,10 @@ td{
     background-color: cornflowerblue;
     color: black;
 }
+#Vehicles{
+    text-align: center;
+}
+.myimage{
+    border-radius: 20px;
+    background-color: blue;
+}
