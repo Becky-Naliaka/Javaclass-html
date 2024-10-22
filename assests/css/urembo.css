@@ -1,0 +1,27 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "sans-serif";
+}
+th,td{
+    border: 2px solid blue;
+    padding: 15px;
+}
+h2{
+    color: darkblue;
+}
+th{
+    background-color: greenyellow;
+    color: black;
+}
+td{
+    background-color: cornflowerblue;
+    color: black;
+}
+#Vehicles{
+    text-align: center;
+}
+.myimage{
+    border-radius: 20px;
+    background-color: blue;
+}
